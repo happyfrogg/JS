@@ -1,11 +1,11 @@
-# Wonderful Word Game 
-
-단어 간의 유사도를 이용해서 정답을 유추하는 게임 
+# Seq2Seq Q&A Chatbot
+일부 수정 중입니다.
+ 
 
 <br>
 
 ### 데이터 출처
-https://github.com/lovit/namuwikitext
+https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
 
 <br>
 
