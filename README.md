@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotD
 
 ### 실행 결과
 
-<img src="./03_word_embedding/image1.png" width="500"/>
+<img src="./03_word_embedding/image.png" width="500"/>
 
 <br>
 
-<img src="./03_word_embedding/image2.png" width="500"/>
+
