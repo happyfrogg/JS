@@ -4,7 +4,7 @@
 
 ### 실행 결과
 
-<img src="./03_word_embedding/image" width="500"/>
+<img src="./image.png" width="1200"/>
 
 <br>
 
