@@ -3,15 +3,11 @@
 
 <br>
 
-### 데이터 출처
-https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
-
-<br>
-
 ### 실행 결과
 
-<img src="./03_word_embedding/image.png" width="500"/>
+<img src="./images/img1.png" />
 
 <br>
 
+<img src="./images/img2.png" />
 
