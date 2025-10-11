@@ -1,18 +1,23 @@
-# Seq2Seq Q&A Chatbot
-추론 파트 수정 중입니다.
- 
+## 🤖 SKN-17 실습 
 
-<br>
+**LLM 및 AI 관련 프로젝트와 챗봇 실습**을 정리한 개인 학습용 프로젝트 모음입니다.  
+각 폴더에는 직접 실습하고 개발한 다양한 챗봇, 게임, 분석 프로젝트가 들어있습니다.
 
-### 데이터 출처
-https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
+---
 
-<br>
+### 📂 폴더 구성
 
-### 실행 결과
+| 폴더명 | 내용 |
+|:--------|:--------|
+| `01_wonderful_word_game` | 단어 간 **유사도를 이용해 정답을 추측하는 게임** 프로젝트입니다. |
+| `02_sentiment_analysis` | 텍스트 데이터를 활용한 **감정 분석** 실습 프로젝트입니다. |
+| `03_seq2seq_chatbot` | **Seq2Seq 모델 기반 챗봇** 구현 실습입니다. |
+| `04_hf_pl` | 기사 내용을 기반으로 **헤드라인 생성**을 실습한 프로젝트입니다. |
+| `05_chatbot` | 음성 인식과 챗봇을 활용한 **운동 코치 챗봇** 실습입니다. |
+| `06_llm` | LLM을 활용한 **대화형 게임** 프로젝트입니다. |
 
-<img src="./03_word_embedding/image.png" width="500"/>
-
-<br>
+---
 
 
+### 📫 Contact  
+📧 jusu9204@gmail.com
